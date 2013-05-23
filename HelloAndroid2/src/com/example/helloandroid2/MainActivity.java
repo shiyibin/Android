@@ -20,6 +20,7 @@ public class MainActivity extends Activity {
 //		button1.setOnClickListener(new ButtonClickListener());
 		text1=(EditText)this.findViewById(R.id.edit_message);
 		//add by shiyb
+		//add by shiyb2
 	}
 	@Override
 	protected void onStart() {
